@@ -32,7 +32,7 @@ Technologies Used: MongoDB, Mongoose, React Native, TypeScript, Chai, Mocha
 
 ## 📚 Education and Experience
 
-I have a 2:1 Bachelor's degree in English from Liverpool John Moores University. Prior to my career as a software developer, I gained valuable experience working in various roles, including handling and transport technician at National Museums Liverpool and retail assistant and front of house receptionist at Liverpool World Museum and Walker Art.
+I have a 2:1 Bachelor's degree in English from Liverpool John Moores University. Prior to my career as a software developer, I gained valuable experience working in various roles, including handling and transport technician at National Museums Liverpool and retail assistant at Liverpool World Museum and Walker Art Gallery.
 
 ## ⚡ Hobbies
 
